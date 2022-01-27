@@ -1,0 +1,13 @@
+Creation Date:23/01/2021
+Author: Karthick
+
+This project is to create docker volume and db container for flask application.
+
+1. create docker volume
+2. create docker network for app and mysql communication
+3. pull docker mysql image and configure it with the volume and network created.
+4.install dependencies
+5. create requirment.txt file
+6. build your application into image
+7. run your image into existing db network to communicate with db container
+6. commit for source control
